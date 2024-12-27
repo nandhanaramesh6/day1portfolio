@@ -1,0 +1,49 @@
+body
+{
+    background-color: darkolivegreen;
+}
+
+.name{
+    color: rgb(239, 154, 42);
+}
+button
+{
+    background-color: rgb(251, 190, 137);
+    padding: 20px;
+    margin:80px;
+    border-radius: 5px;
+    transition: 5s;
+}
+button:hover
+{
+    background-color:white;
+}
+.box
+{
+    color: sandybrown;
+    font-size: 150px;
+    
+}
+.ready
+{
+    color: sandybrown;
+    font-size:60px;
+    text-align: 40px;
+    
+}
+.small
+{
+    color:sandybrown;
+    font-size: 30px;
+    font-style: italic;
+    text-align: 20px;
+    
+}
+.ribbon 
+{
+    position: relative;
+    top: -700px;
+    right: -1800px;
+    left: 1400px;
+    
+ }
